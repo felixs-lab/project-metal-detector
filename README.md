@@ -1,2 +1,26 @@
-# project-metal-detector
-Metal Detector projects
+# Metal Detector projects
+
+'Szukamy tegich, wielkich chlopow
+
+## Linki
+
+* https://www.hobby-hour.com/electronics/s/groundtrack-gr1290.php
+* https://www.geotech1.com/cgi-bin/pages/common/index.pl?page=metdet&file=projects.dat
+* https://www.talkingelectronics.com/projects/200TrCcts/MetalDetectors/MetalDetectors-1.html
+* https://www.talkingelectronics.com/projects/MetalDetectorMkII/MetalDetectorMkIII.html
+
+* VIDEO: https://www.youtube.com/watch?v=Pbxb2tnt1J0
+* VIDEO: https://www.youtube.com/watch?v=AqZEsPaXV-Y
+
+* https://www.talkingelectronics.com/projects/MetalDetectorMkII/MetalDetectorMkII.html
+
+* VIDEO: https://www.youtube.com/watch?v=plgpn7E7puE
+
+### DiodeGoneWild
+
+* https://www.youtube.com/watch?v=eCRgNr6jj2g [part 1]
+* https://www.youtube.com/watch?v=-czOV-hKSlA [part 2]
+
+## Calculators
+
+* http://www.circuits.dk/calculator_single_layer_aircore.htm
