@@ -16,6 +16,7 @@
 * https://www.talkingelectronics.com/projects/MetalDetectorMkII/MetalDetectorMkII.html
 
 * VIDEO: https://www.youtube.com/watch?v=plgpn7E7puE
+* https://www.satsleuth.com/Schematics.aspx?Category=Metal
 
 ### DiodeGoneWild
 
