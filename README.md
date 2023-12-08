@@ -8,6 +8,7 @@
 * https://www.geotech1.com/cgi-bin/pages/common/index.pl?page=metdet&file=projects.dat
 * https://www.talkingelectronics.com/projects/200TrCcts/MetalDetectors/MetalDetectors-1.html
 * https://www.talkingelectronics.com/projects/MetalDetectorMkII/MetalDetectorMkIII.html
+* [PDF] https://worldradiohistory.com/UK/Practical-Electronics/00s/Everyday-Practical-Electronics-2002-10.pdf
 
 * VIDEO: https://www.youtube.com/watch?v=Pbxb2tnt1J0
 * VIDEO: https://www.youtube.com/watch?v=AqZEsPaXV-Y
