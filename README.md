@@ -1,10 +1,13 @@
 # Metal Detector projects
 
-'Szukamy tegich, wielkich chlopow
+## Types
+
+* **VLF** - Very Low Frequency Metal Detectors
+* **PI** - Pulse Induction Metal Detectors
 
 ## Linki
 
-* https://www.hobby-hour.com/electronics/s/groundtrack-gr1290.php
+* [VLF] [Heathkit Groundtrack GR-1290 VLF metal detector](https://www.hobby-hour.com/electronics/s/groundtrack-gr1290.php)
 * https://www.geotech1.com/cgi-bin/pages/common/index.pl?page=metdet&file=projects.dat
 * https://www.talkingelectronics.com/projects/200TrCcts/MetalDetectors/MetalDetectors-1.html
 * https://www.talkingelectronics.com/projects/MetalDetectorMkII/MetalDetectorMkIII.html
