@@ -8,7 +8,7 @@
 ## Linki
 
 * [VLF] [Heathkit Groundtrack GR-1290 VLF metal detector](https://www.hobby-hour.com/electronics/s/groundtrack-gr1290.php)
-* https://www.geotech1.com/cgi-bin/pages/common/index.pl?page=metdet&file=projects.dat
+* [GeoTech1] https://www.geotech1.com/cgi-bin/pages/common/index.pl?page=metdet&file=projects.dat
 * https://www.talkingelectronics.com/projects/200TrCcts/MetalDetectors/MetalDetectors-1.html
 * https://www.talkingelectronics.com/projects/MetalDetectorMkII/MetalDetectorMkIII.html
 * [PDF] https://worldradiohistory.com/UK/Practical-Electronics/00s/Everyday-Practical-Electronics-2002-10.pdf
